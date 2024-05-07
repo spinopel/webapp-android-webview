@@ -12,4 +12,4 @@ Links:
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free software, freedom of thought!**

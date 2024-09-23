@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.spinopel"
+    namespace = "com.spinopel.webapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.spinopel"
+        applicationId = "com.spinopel.webapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

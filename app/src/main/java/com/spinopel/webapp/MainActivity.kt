@@ -1,4 +1,4 @@
-package com.example.spinopel
+package com.spinopel.webapp
 
 import android.annotation.SuppressLint
 import android.os.Bundle

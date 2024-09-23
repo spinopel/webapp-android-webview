@@ -1,4 +1,4 @@
-package com.example.spinopel
+package com.spinopel.webapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

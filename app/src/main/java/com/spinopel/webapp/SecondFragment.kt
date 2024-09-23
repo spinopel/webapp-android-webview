@@ -1,4 +1,4 @@
-package com.example.spinopel
+package com.spinopel.webapp
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.example.spinopel.databinding.FragmentSecondBinding
+import com.spinopel.webapp.databinding.FragmentSecondBinding
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
